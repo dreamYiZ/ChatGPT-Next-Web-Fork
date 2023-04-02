@@ -1,3 +1,10 @@
+# this is a fork of the ChatGPT-Next-Web
+
+
+https://github.com/Yidadaa/ChatGPT-Next-Web
+
+
+
 <div align="center">
 <img src="./static/icon.svg" alt="预览"/>
 
